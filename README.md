@@ -7,9 +7,11 @@ This is a duplicate of our basecode put on github for information.
 Project made on Linux with GCC 4.7
 Tested with valgrind (no leak).
 
-make purge && make val to purge, build and launch valgrind with the software
-make 		       build and run
-make 		       alone to only build
+make purge && make val : to purge, build and launch valgrind with the software
+
+make : build and run
+
+make : alone to only build
 
 
 /!\ Warning : some keyboard entrry require two keysrtoke instead of one (all is detailed in the menu)
