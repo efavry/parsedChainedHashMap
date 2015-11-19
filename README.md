@@ -14,4 +14,4 @@ make : build and run
 make : alone to only build
 
 
-/!\ Warning : some keyboard entrry require two keysrtoke instead of one (all is detailed in the menu)
+/!\ Warning : some keyboard entry require two keystroke instead of one (all is detailed in the menu)
